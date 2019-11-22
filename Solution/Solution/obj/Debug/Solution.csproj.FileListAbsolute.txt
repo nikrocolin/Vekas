@@ -1,0 +1,7 @@
+c:\users\9nik8\source\repos\Solution\Solution\bin\Debug\Solution.exe.config
+c:\users\9nik8\source\repos\Solution\Solution\bin\Debug\Solution.exe
+c:\users\9nik8\source\repos\Solution\Solution\bin\Debug\Solution.pdb
+c:\users\9nik8\source\repos\Solution\Solution\obj\Debug\Solution.csprojAssemblyReference.cache
+c:\users\9nik8\source\repos\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+c:\users\9nik8\source\repos\Solution\Solution\obj\Debug\Solution.exe
+c:\users\9nik8\source\repos\Solution\Solution\obj\Debug\Solution.pdb
